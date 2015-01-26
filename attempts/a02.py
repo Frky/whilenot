@@ -1,2 +1,2 @@
 
-execfile("infinite.py")
+execfile("a02.py")
